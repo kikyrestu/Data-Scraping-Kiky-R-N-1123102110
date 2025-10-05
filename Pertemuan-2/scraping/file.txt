@@ -1,0 +1,4 @@
+Ini baris pertama
+Ini baris kedua
+This is a line
+This is another line

@@ -1,0 +1,5 @@
+Halo, ini isi berkas baru!
+Baris kedua dari berkas.
+Baris pertama
+Baris kedua
+Baris ketiga
